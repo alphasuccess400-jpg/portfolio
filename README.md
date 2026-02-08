@@ -1,4 +1,4 @@
-<!doctype html>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,7 +8,6 @@
     <body>
         
 
-    <title>ALPHA SUCCESS </title>
 </head>
 <h1>DEAR</h1>
 <h1 style="color: brown; text-shadow: 0ch;">Welcome to</h1>
