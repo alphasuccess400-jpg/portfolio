@@ -8,7 +8,6 @@
     <body>
         
 
-</head>
 <h1>DEAR</h1>
 <h1 style="color: brown; text-shadow: 0ch;">Welcome to</h1>
 <h1 style="color: rgb(9, 50, 236);">My personal website</h1>
