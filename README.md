@@ -11,9 +11,6 @@
 <h1>DEAR</h1>
 <h1 style="color: brown; text-shadow: 0ch;">Welcome to</h1>
 <h1 style="color: rgb(9, 50, 236);">My personal website</h1>
-</ul>
-</section>
-
 
 <section aria-labelledby="partners" class="partners">
 <h2 style="font-size: xx-large;">Hope you get the best from here</h2>
@@ -42,10 +39,6 @@
     <li style="text-align: center; color: rgb(28, 241, 9); font-size: x-large;">3. Gamings</li>
 </section>
 
-
-</main>
-
-
 <footer class="site-footer" role="contentinfo">
 <div class="container">
 <nav aria-label="Footer">
@@ -61,4 +54,3 @@
 <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
 </footer>
 </body>
-</html>
